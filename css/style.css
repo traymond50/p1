@@ -1,0 +1,16 @@
+
+header{
+	background-color:black;
+	color: white;
+	border: 10px;
+
+}
+
+h1{
+	margin: 0;
+	margin-bottom: 15px;
+	padding: 10px;
+}
+.panel-title{
+	font-weight: bold;
+}
